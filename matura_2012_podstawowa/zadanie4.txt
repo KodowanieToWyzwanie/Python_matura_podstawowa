@@ -1,0 +1,4 @@
+w pliku jest 495 liczb parzystych
+liczba o najwiekszej sumie cyfr rownej 59 to 187869866
+liczba o najmniejszej sumie cyfr rownej 2 to 10010
+2389 23567 123456789 3468 
