@@ -1,0 +1,18 @@
+napisy o parzystej dlugosci 504
+tyle samo 0 i 1 - 110
+same 1 - 50 same 0 - 32
+2 znakow  43
+3 znakow  38
+4 znakow  37
+5 znakow  57
+6 znakow  53
+7 znakow  68
+8 znakow  78
+9 znakow  103
+10 znakow  83
+11 znakow  90
+12 znakow  86
+13 znakow  81
+14 znakow  68
+15 znakow  59
+16 znakow  56
